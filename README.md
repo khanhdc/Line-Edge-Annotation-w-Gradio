@@ -27,6 +27,7 @@ This is an interactive web-based annotation tool built with [Gradio](https://www
 ```bash
 https://github.com/khanhdc/Line-Edge-Annotation-w-Gradio.git
 cd Line-Edge-Annotation-w-Gradio
+```
 
 2. **Install the requirement**
 - gradio==5.29.1
