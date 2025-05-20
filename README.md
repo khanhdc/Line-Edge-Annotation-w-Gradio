@@ -17,6 +17,7 @@ This is an interactive web-based annotation tool built with [Gradio](https://www
 
 ## 📸 Screenshot
 
+![image](https://github.com/user-attachments/assets/d2d2526e-10f0-40ec-bb12-5440f864928c)
 
 ---
 
